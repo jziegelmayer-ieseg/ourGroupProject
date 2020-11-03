@@ -1,0 +1,34 @@
+.bottomfooter {
+	padding: 40px;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   background-color: rgb(226, 226, 226);
+   display: flex;
+   align-items: center;
+   justify-content: space-between;
+
+}
+
+
+.fa{
+  padding: 15px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+  border-radius: 50%;
+  background-color: rgb(53, 53, 53);
+  color: white;
+}
+
+.fa:hover {
+    opacity: 0.7;
+}
+
+
+.fa-mod{
+
+  border-radius: 100%;
+
+}
